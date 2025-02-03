@@ -1,1 +1,1 @@
-SKALA 1일차
+# SKALA 1기
